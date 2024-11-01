@@ -1,0 +1,51 @@
+.sidebar {
+    height: 100vh;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #506fd4;
+    color: #fff;
+    padding-top: 20px;
+    transition: width 0.3s;
+}
+
+.sidebar a {
+    display: block;
+    padding: 15px 20px;
+    color: #f1f1f1;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+.sidebar a:hover {
+    color: greenyellow;
+}
+.sidebar h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.c1{
+    padding-left: 250px;
+    color: #506fd4;
+    ;
+}
+.c2{
+    color: #506fd4;
+    padding-left: 550px;
+    margin-top: -360px;
+}
+.c2 a{
+    background: #506fd4;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: aliceblue;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 1px;
+    width: 150px;
+    text-align: center;
+}
+
+
